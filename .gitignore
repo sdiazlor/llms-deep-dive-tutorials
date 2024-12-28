@@ -1,3 +1,7 @@
 # Ignore MacOS system files
 .DS_Store
 .ipynb_checkpoints
+.python-version
+
+# Directory
+tutorials/chapter2/wiki-gpt2/
